@@ -1,0 +1,38 @@
+.container{ 
+display: flex;
+    flex-direction: row;
+    padding: 1px;
+    justify-content: space-around;
+    height: 200px;
+ }
+.container div {
+    background-color: rgb(99, 109, 201);
+    width: 300px;
+    height: 160;
+text-align: center;
+line-height: 10px;
+margin: 10px;
+}
+.cuadrito{ 
+    width: 290px;
+    height: 150px;
+}
+.titulo{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-image: url(https://img.freepik.com/vector-premium/enfermera-medico-estan-midiendo-altura-pacientes-hospital-ilustracion-personaje-dibujos-animados-vector-plano_77116-757.jpg?w=2000);
+}
+main{ 
+    color: blue;
+    
+}
+button{
+    background-color:rgb(99, 109, 201);
+    font-weight: 100;
+    font-size: 30px;
+    border-color: rgb(72, 72, 134);
+    border-radius: 50px;
+    
+}
