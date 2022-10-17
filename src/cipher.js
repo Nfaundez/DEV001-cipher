@@ -9,7 +9,6 @@ const cipher = {
         offset = (offset % 26 + 26) % 26;
         return message.replace(/[A-Z]/ig, c => letras[(letras.indexOf(c) + offset) % 26]);
     },
-        
     decode: function(offset, message) {
         if (message === undefined || offset === undefined) {
             throw new TypeError("alertaaa!!!")
@@ -22,6 +21,7 @@ const cipher = {
     }
 }
 export default cipher;
+        
 
         
     
