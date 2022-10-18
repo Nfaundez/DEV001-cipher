@@ -1,4 +1,21 @@
 # Cifrado César
+[![nat.jpg](https://i.postimg.cc/25Lvv8Tq/nat.jpg)](https://postimg.cc/B8sXf3rs)
+## ¿Quiénes son los principales usuarios de producto?
+### Son todos los laboratorios clínicos que así lo requieran, para codificar de manera rápida el nombre de sus pacientes. A su vez ocuparán también los pacientes para descifrar y corroborar su nombre, y encontrar su resultado en los sistemas del laboratorio donde se tomaron los exámenes.
+
+***
+##  ¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
+###  Su objetivo principal es poder codificar el nombre para que este vaya con el código en el tubo de muestra, y así respetar la privacidad del paciente y la confidencialidad de sus resultados.
+
+***
+## ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
+### Los exámenes de ETS, muchas veces no son realizados con frecuencia, solo por factores asociados a la confidencialidad de estos resultados.
+Ejemplo: Si una empresa quisiera dar la posibilidad a sus trabajadores de realizarse, a través de un programa de su seguro medico, exámenes preventivos de ETS, muchos de ellos no lo harán, solo por no tener seguridad de la confidencialidad de los resultados.
+De esta manera el cifrado daría la seguridad al trabajador y paciente , de que solo el conocerá sus resultados finales y no pasará por sus empleadores.
+También pudiera replicarse para exámenes de drogas y paternidad por ejemplo
+[![imagen.jpg](https://i.postimg.cc/fym0PH1M/imagen.jpg)](https://postimg.cc/N2GM9xgn)
+
+
 
 ## Índice
 
